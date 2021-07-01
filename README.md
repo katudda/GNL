@@ -1,3 +1,7 @@
+<p align='center'>
+<img src="get_next_linem.png">
+</p>
+
 # Get Next Line (GNL)
 The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor. Calling the function get_next_line in a loop will then allow you to read the text available on a file descriptor one line at a time until the EOF.
 
